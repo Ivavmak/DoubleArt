@@ -1,0 +1,12 @@
+# DoubleArt
+EN Instuction
+Minecraft double art script
+Before using open CMD and download Pillow and Art libraries
+use: pip install Pillow and pip install art
+After downloading libraries just start doubleart_en.py
+
+RU Instuction
+Minecraft double art script
+Перед использованием откройте командную строку и скачайте библиотеки Pillow и Art
+введите в командую строку: pip install Pillow и потом pip install art
+После установки библиотек просто запуститие doubleart_ru.py
